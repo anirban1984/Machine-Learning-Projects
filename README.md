@@ -31,4 +31,4 @@ This repository is only for self-learning purpose. I am really happy if my solut
 
 Other useful resource: [https://github.com/stasi009/TakeHomeDataChallenges](https://github.com/stasi009/TakeHomeDataChallenges)
 
-Copyright @ Jifu Zhao 2018
+
