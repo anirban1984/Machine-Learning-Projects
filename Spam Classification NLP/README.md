@@ -1,2 +1,4 @@
 # SPAM Classification using NLP
-dsd
+Build a spam classifer based on Mobile SMS data
+
+
